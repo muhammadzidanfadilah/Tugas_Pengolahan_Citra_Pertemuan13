@@ -16,4 +16,5 @@
 # CONTOH GAMBAR 2
 ![contoh1](https://github.com/muhammadzidanfadilah/Tugas_Pengolahan_Citra_Pertemuan13/assets/115553474/a5de3f60-3191-4c06-a200-e7d6dccc2d31)
 
+ # HASIL DI BAWAH
 ![contoh2](https://github.com/muhammadzidanfadilah/Tugas_Pengolahan_Citra_Pertemuan13/assets/115553474/6f5a6ee3-86b0-4f1c-a182-c7db5e4561bc)
